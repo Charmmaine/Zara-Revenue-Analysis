@@ -12,7 +12,7 @@ Broad promotional discounts are being used as an inventory crutch, which directl
 
 Strategic Objectives
 
-• Isolate baseline revenue engines across hidden clothing categories.
+• Isolate baseline revenue engines across clothing categories.
 • Audit promotional efficiency to quantify exact volume responses.
 • Map customer behavior trends across demographic sections and floor layouts.
 • Deliver data-proven operational rules to protect maximum profit margins.
@@ -25,7 +25,7 @@ text
 ├── notebooks/
 │   └── zara_analysis.ipynb    # Cleaned, end-to-end Python pipeline
 └── README.md                  # Project documentation
-Use code with caution.
+
 
 Data Engineering & Quality Controls
 
@@ -39,13 +39,13 @@ Key Business Insights
 1. Category Baseline Performance
 
 • Jackets dominate the portfolio, generating over $25M in total revenue.
-• Sweaters, shoes, and t-shirts cluster flatly at a baseline of ~$4M each.
+• Sweaters, shoes, and t-shirts cluster flatly at a baseline of about $4M each.
 • Jeans contribute a negligible fraction to overall gross revenue.
 
 2. Ineffective Promotional Triggers
 
-• Full-price periods maintain a strong baseline of ~1,850 units per item.
-• Active promotions drop average sales volume down to ~1,820 units.
+• Full-price periods maintain a strong baseline of 1,850 units per item.
+• Active promotions drop average sales volume down to 1,820 units.
 • Blanket price cuts cause severe profit bleed instead of driving traffic.
 
 3. Layout and Demographic Dynamics
