@@ -6,6 +6,17 @@ Project Overview
 
 This project analyzes retail sales data from Zara to solve a critical business problem: corporate margin erosion due to inefficient markdown cycles. By engineering a revenue metric and evaluating performance across product categories (terms), demographic divisions (section), and store layouts, this analysis maps out a concrete blueprint to eliminate profit bleed and protect product margins.
 
+ Dataset Source
+The data utilized in this project was sourced from **Kaggle** (Zara Dataset). The dataset encapsulates core transactional fields including:
+*   `Product ID` & `name` — Unique identifiers and descriptors.
+*   `Product Category` & `terms` — Broad product families and granular subcategories (e.g., jackets, shoes, sweaters, jeans).
+*   `section` — Major store departments (e.g., WOMAN, MAN).
+*   `price` & `Sales Volume` — Monetary pricing and direct unit sales quantities.
+*   `Promotion` & `Seasonal` — Marketing discount tags and collection timelines.
+*   `Product Position` — Catalog distribution and placement classifications.
+
+
+
 Problem Statement
 
 Broad promotional discounts are being used as an inventory crutch, which directly cannibalizes Zara's most valuable product classes. Instead of stimulating incremental customer traffic, blanket markdown strategies have trained premium shoppers to bypass full retail price tags and wait for discount windows, leading to severe profit bleed.
